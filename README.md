@@ -6,6 +6,6 @@ In my R report, I experiment the use of supervised ML on 2 different data sets. 
 \
 In this mini project, I've utilized the following supervised learning models:
 \
-*Classfication*: LDA, QDA, Logistic Regression, KNN
+*Classification*: LDA, QDA, Logistic Regression, KNN
 \
 *Regression*: Linear Regression, Best Subsets, Ridge Regression, Lasso Regression
